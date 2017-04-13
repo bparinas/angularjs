@@ -1,1 +1,2 @@
-# angularjs
+# bootstrap + angularjs
+# online buying application
